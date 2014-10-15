@@ -1,3 +1,9 @@
+# Greg Ziegan (grz5)
+# Matt Prosser (mep99)
+# Unfinished: We switched to writing the project in bash. Here's proof that we spent a decent amount of time toying with python, though.
+
+############ DO NOT GRADE THIS %%%%%%%%%%%%%%%%%
+
 import serial
 import numpy as np
 from matplotlib import pyplot as plt
