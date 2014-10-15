@@ -1,3 +1,7 @@
+# Greg Ziegan (grz5)
+# Matt Prosser (mep99)
+# Plotting format file. Is reread to refresh live plot
+
 reset
 set terminal wxt size 1300,600
 set multiplot layout 3,1 title "Accelerometer Data"
@@ -46,5 +50,5 @@ plot "plot.dat" using 1:6 with lines, "plot.dat" using 1:7 with lines
 ###
 
 unset multiplot
-pause 0.01
+pause 0.01  # stepsize
 reread
