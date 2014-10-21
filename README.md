@@ -1,7 +1,9 @@
-# Hardware Trojan Project
+# Serial Data Plotter
 
-Greg Ziegan (grz5)
-Matt Prosser (mep99)
+#### Note: This is currently used for a specific type of serial input (defined for a class assignment), the regex for parsing string data is non-generic.
+
+Greg Ziegan 
+Matt Prosser
 
 ## Setup
 
